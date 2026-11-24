@@ -205,7 +205,7 @@ export default function App() {
             backgroundRepeat: 'no-repeat',
           }}
         >
-          <div className="w-full pt-[24%] pb-[28%] px-[18%] sm:pt-[22%] sm:pb-[26%] sm:px-[22%]">
+          <div className="w-full pt-[24%] pb-[28%] px-[18%] translate-y-6 sm:translate-y-0 sm:pt-[22%] sm:pb-[26%] sm:px-[22%]">
             <p className="font-letter text-[16px] sm:text-2xl lg:text-3xl font-bold text-[#4a362f] mb-3 sm:mb-5">
               To my favorite person,
             </p>
